@@ -1,3 +1,3 @@
-# Go-lang Fundamental from Gitbook "Dasar Pemrograman Golang" by Noval Agung
+# Go-lang Fundamental (Indonesian)
 
-ebook source : [https://www.gitbook.com/book/novalagung/dasarpemrogramangolang](click here)
+ebook source : [click here](https://www.gitbook.com/book/novalagung/dasarpemrogramangolang)

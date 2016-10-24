@@ -54,7 +54,7 @@ func main() {
 
     var data = []string{"andy", "budi", "ari"}
     var dataContains0 = filter(data, func(each string) bool {
-        return strings.Contains(each, "i") // mencari huruf 0 dari each
+        return strings.Contains(each, "i") // mencari huruf i dari each
     }) 
     var dataLength5 = filter(data, func(each string) bool {
         return len(each) == 3

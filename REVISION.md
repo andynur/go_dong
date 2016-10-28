@@ -1,10 +1,13 @@
-# REVISI GITBOOK "DASAR PEMROGRAMAN GOLANG"
+# KOREKSI GITBOOK "DASAR PEMROGRAMAN GOLANG"
 PENULIS : NOVAL AGUNG
 REVISI  : ANDY NUR
 
-Berikut ini adalah daftar kekeliuran dalam penulisan di ebook tersebut.
+Berikut ini adalah daftar koreksi dalam penulisan di ebook tersebut.
 
--------- ------- ----------
-HALAMAN	 KELIRU	 PEMBENARAN
--------- ------- ----------                 
+-------- ------- ------- ----------
+HALAMAN	 KELIRU	 KOREKSI KETERANGAN
+-------- ------- ------- ----------                
 158      Bat     Buat
+183      nama    name    penyeragaman key yang lain dengan english
+
+ 
